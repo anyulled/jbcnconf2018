@@ -15,7 +15,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "vue": "^2.5.2",
-    "vuetify": "^1.0.0"
+    "vuetify": "^1.5.22"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
