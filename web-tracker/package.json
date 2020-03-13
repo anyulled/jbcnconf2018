@@ -14,8 +14,8 @@
   },
   "dependencies": {
     "axios": "^0.19.0",
-    "vue": "^2.5.2",
-    "vuetify": "^1.0.0"
+    "vue": "^2.6.11",
+    "vuetify": "^1.5.22"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
