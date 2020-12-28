@@ -13,8 +13,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "vue": "^3.0.3",
     "axios": "^0.21.1",
-    "vue": "^3.0.2",
     "vuetify": "^2.3.18"
   },
   "devDependencies": {
